@@ -9,6 +9,8 @@ Jenny2 - penguins, cats, bunnies, butterflies, hamsters
 
 Bonnie - sloth
 
+### Heading
+
 ## Including Code
 
 You can include R code in the document as follows:
